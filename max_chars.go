@@ -1,4 +1,3 @@
-// ! Failing
 package maxchars
 
 import (
